@@ -22,7 +22,6 @@ A modern, minimalistic skill-sharing platform where users can exchange skills, l
 
 ### Accessibility Features
 - **Voice Navigation** - Navigate the app using voice commands
-- **Multi-language Support** - Available in English, Spanish, French, German, and Chinese
 - **Screen Reader Compatible** - Full ARIA labels and semantic HTML
 - **Keyboard Navigation** - Complete keyboard accessibility
 - **Reduced Motion Support** - Respects user motion preferences
@@ -238,14 +237,6 @@ Uses Supabase Auth with email/password:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 👥 Support
-
-For support, email support@skillhub.com or join our community Discord.
 
 ## 🙏 Acknowledgments
 
